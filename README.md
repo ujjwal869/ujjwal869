@@ -1,16 +1,31 @@
-## Hi there 👋
+<table>
+  <tr>
+    <td style="width: 60%; vertical-align: middle;">
 
-<!--
-**ujjwal869/ujjwal869** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Hey, I'm **Ujjwal Gupta**  
+🎓 4th Year @ **BIT Mesra**  
+🧠 Branch: **AI/ML**  
+🌱 Exploring life through **curiosity & creativity**  
+✨ Believer in **“learning never stops”**
 
-Here are some ideas to get you started:
+</td>
+    <td style="width: 40%; text-align: center;">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://raw.githubusercontent.com/ujjwal869/ujjwal869/main/f9b88deeae101d6a8572063bb63c286e.gif" alt="Coding GIF" width="350"/>
+
+</td>
+  </tr>
+</table>
+
+---
+
+## 📫 Connect With Me  
+<p align="center">
+  <a href="https://linkedin.com/in/ujjwalgupta"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>
+  <a href="mailto:ujjwalgupta@example.com"><img src="https://skillicons.dev/icons?i=gmail" height="50"/></a>
+  <a href="https://github.com/ujjwal869"><img src="https://skillicons.dev/icons?i=github" height="50"/></a>
+</p>
+
+---
+
+<p align="center">✨ “Code. Learn. Explore. Repeat.” ✨</p>
